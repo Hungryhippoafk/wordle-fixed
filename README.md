@@ -17,3 +17,4 @@ npm start
 
 ## Obs
 Detta är en enkel demo för G-nivå. VG-moment kan läggas till senare (server-side feedback, filtrering, tester, TS).
+# wordle-fixed
