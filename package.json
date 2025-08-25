@@ -1,0 +1,14 @@
+{
+  "name": "wordle-game",
+  "version": "1.0.0",
+  "description": "Wordle-inspirerat spel med SSR-highscore",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"(inga tester krävs för G)\" && exit 0"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "sqlite3": "^5.1.7"
+  }
+}
