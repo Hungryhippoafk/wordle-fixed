@@ -1,4 +1,4 @@
-# Wordle Game (Fullstack, Godkänt-nivå)
+# Wordle Game 
 
 ## Kör lokalt
 ```bash
@@ -15,6 +15,4 @@ npm start
 - `views/` – SSR-mallar
 - `public/` – klient (React via CDN)
 
-## Obs
-Detta är en enkel demo för G-nivå. VG-moment kan läggas till senare (server-side feedback, filtrering, tester, TS).
-# wordle-fixed
+
